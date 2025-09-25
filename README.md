@@ -11,7 +11,7 @@ Using **Python, MS SQL SERVER, and Power BI**, companies can visualize key suppl
 
 # Supply Chain Management Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/8d42a5e4-9ebd-46c7-bf6a-a66f2648c422/ReportSection?experience=power-bi
+
 
 ## Problem Statement
 
@@ -62,11 +62,7 @@ In our dashboard project, we are gonna create four different pages and implement
 
 **Power Bi Dashboard Reprot**
 
-![image](https://github.com/MithilKothari/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/07fabc2b-8ca3-4e09-bea3-872282a2ab60)
 
-![image](https://github.com/MithilKothari/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/54330014-c730-4c3b-95ef-128cd4d970f8)
-
-![image](https://github.com/MithilKothari/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/9429623b-9896-4329-90f8-34a45b7a5994)
 
 
 
