@@ -60,7 +60,12 @@ In our dashboard project, we are gonna create four different pages and implement
 **Python Code**
 ![image](https://github.com/MithilKothari/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/86b0d38a-6e2b-489e-9b65-26b7a364f196)
 
-**Power Bi Dashboard Reprot**
+
+## 📂 Dashboard Reprot
+Power Bi Dashboard Reprot: [View Dataset](https://github.com/AdarshVL/Supply_Chain_Management_Dashboard_Power-Bi/blob/main/Supply_Chain_Management_Dashboard_Project.pbix)
+ 
+## 📂 Dataset
+A sample dataset is included: [View Dataset](https://github.com/AdarshVL/Supply_Chain_Management_Dashboard_Power-Bi/blob/main/Car_SupplyChainManagementDataSet.csv)
 
 
 
