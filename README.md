@@ -1,4 +1,4 @@
-# Supply-Chain-Management-Dashboard-Power-Bi-
+# 🔗 Supply-Chain-Management-Dashboard-Power-Bi-
 
 
 # Project Title
@@ -67,6 +67,26 @@ Power Bi Dashboard Reprot: [View Dataset](https://github.com/AdarshVL/Supply_Cha
 ## 📂 Dataset
 A sample dataset is included: [View Dataset](https://github.com/AdarshVL/Supply_Chain_Management_Dashboard_Power-Bi/blob/main/Car_SupplyChainManagementDataSet.csv)
 
+--- 
+
+## 👨‍💻 Author
+
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI | Data Science | Computer Vision Enthusiast
+
+📧 [Email](adarshlilhare@example.com)
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
 
 
 
