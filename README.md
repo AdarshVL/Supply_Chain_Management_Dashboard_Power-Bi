@@ -67,7 +67,7 @@ Power Bi Dashboard Reprot: [View Dataset](https://github.com/AdarshVL/Supply_Cha
 ## 📂 Dataset
 A sample dataset is included: [View Dataset](https://github.com/AdarshVL/Supply_Chain_Management_Dashboard_Power-Bi/blob/main/Car_SupplyChainManagementDataSet.csv)
 
---- 
+---
 
 ## 👨‍💻 Author
 
@@ -76,7 +76,7 @@ A sample dataset is included: [View Dataset](https://github.com/AdarshVL/Supply_
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI | Data Science | Computer Vision Enthusiast
+💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor
 
 📧 [Email](adarshlilhare@example.com)
 
@@ -87,8 +87,6 @@ A sample dataset is included: [View Dataset](https://github.com/AdarshVL/Supply_
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
 
 ---
-
-
 
 
 
